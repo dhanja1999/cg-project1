@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\dhananjaya adiga\onedrive\desktop\solarsystem\solarsystem\source.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dhananjaya adiga\onedrive\desktop\solarsystem\solarsystem\source.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dhananjaya adiga\onedrive\desktop\solarsystem\solarsystem\source.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dhananjaya adiga\onedrive\desktop\solarsystem\solarsystem\source.cpp(142): warning C4305: '+=': truncation from 'double' to 'float'
+  SolarSystem.vcxproj -> C:\Users\dhananjaya adiga\OneDrive\Desktop\SolarSystem\Debug\SolarSystem.exe
